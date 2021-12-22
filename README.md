@@ -1,9 +1,11 @@
 # DORA-Map
-A map project created using C++,  utilizing OpenStreetMaps, GTK, and ezgl library. This project was completed for a course called ECE297 (Software Communication Design, Fall 2020) along with 2 other team members. Code is not available publicly.
+A map project created using C++,  utilizing OpenStreetMaps, GTK, and ezgl library. This project was completed for a course called ECE297 (Software Communication Design, Fall 2020) along with 2 other team members. Code is not available publicly. This project was created in the university school computer environment, thus does not run well outside of this environment. 
 
 
 # Demo of Map Functions
+The functions, design, and look of the map are unique to my  group. Common functionalities such as panning, zooming, and calculating shortest distance between two points are required by all groups partaking in ECE297. 
 
+<br> 
 
 https://user-images.githubusercontent.com/32041321/147033203-d099dad2-bbeb-4e46-bde8-62d362b8c4b7.mp4
 - Scrolling, panning, and switching map locations
