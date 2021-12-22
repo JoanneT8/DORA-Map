@@ -1,5 +1,5 @@
 # DORA-Map
-A map project created using C++,  utilizing OpenStreetMaps, GTK, and ezgl library. This project was completed for a course called ECE297 (Software Communication Design, Fall 2020) along with 2 other team members. Code is not available publicly. This project was created in the university school computer environment, thus does not run well outside of this environment. 
+A map project created using C++,  utilizing OpenStreetMaps, GTK, and ezgl library. This project was completed for a course called ECE297 (Software Communication Design, Fall 2020) along with 2 other team members. Code is not available publicly. This project was created in a university school computer environment, thus does not run well outside of this environment. 
 
 
 # Demo of Map Functions
